@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: http://www.harishmalan.com/2017/11/07/5-Facial-Keypoint-Detection.html "Facial Keypoint Detection"
+[image1]: https://raw.githubusercontent.com/udacity/AIND-CV-FacialKeypoints/master/images/obamas_with_keypoints.png "Facial Keypoint Detection"
 
 # AIND Term II, Computer Vision Capstone Project 
 # Facial Keypoint Detection and Real-time Filtering
