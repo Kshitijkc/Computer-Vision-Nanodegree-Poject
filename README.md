@@ -1,4 +1,4 @@
-# Computer-Vision-Nanodegree-Poject
+# Computer-Vision-Nanodegree-Poject by Udacity
 This is the final project submitted by me for Nanodegree.
 
 Project: Facial Keypoint Detection
@@ -23,3 +23,6 @@ Step 7: Visualize the Loss and Answer Questions
 Part 3 : Putting parts 1 and 2 together to identify facial keypoints on any image!
 
 Step 8: Build a Robust Facial Keypoints Detector (Complete the CV Pipeline)
+
+
+This project is submitted on 27 April, 2018.
