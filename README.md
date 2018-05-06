@@ -200,4 +200,4 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 
 
 
-This project is submitted on 27 April, 2018.
+##### This project was submitted on 27 April, 2018.
